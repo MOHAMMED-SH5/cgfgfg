@@ -1,0 +1,15 @@
+{
+    "DSPanel":"DS Panel",
+    "Home": "Home",
+    "About":"About",
+    "Table":"Table",
+    "firstName":"first Name",
+    "lastName":"lastName",
+    "numberclass":"numberclass",
+    "finallmarks":"finallmarks",
+    "emailaddress":"emailaddress",
+    "password":"password",
+    "confirmpassword":"confirmpassword",
+    "currentPage":"currentPage"
+
+  }

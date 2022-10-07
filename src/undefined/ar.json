@@ -1,0 +1,14 @@
+{
+  "DSPanel":"لوحة التحكم",
+  "Home": "الصفحة الرئسية",
+  "About":"صفحة التسجيل",
+  "Table":"صفحة الجدول",
+  "firstName":"الاسم الاول",
+  "lastName":"الاسم الاخير",
+  "numberclass":"رقم الفصل",
+  "finallmarks":"العلامة النهائية",
+  "emailaddress":"الجيميل",
+  "password":"كلمة السر ",
+  "confirmpassword":"تاكيد كلمة السر",
+  "currentPage":"الصفحة الحالية"
+}

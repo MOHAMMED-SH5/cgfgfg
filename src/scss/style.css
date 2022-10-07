@@ -1,0 +1,161 @@
+body {
+  overflow-x: hidden;
+  font-family: "Proxima Nova";
+}
+
+:root {
+  --color-white: #FFFFFF;
+  --color-gray:#5A5A5A;
+  --color-second:#AFAFAF;
+  --main-fonts-size:18px;
+}
+
+.linkhome {
+  color: var(--color-white);
+  font-size: var(--main-fonts-size);
+  text-decoration: none;
+}
+
+.linkabout {
+  color: var(--color-white);
+  font-size: var(--main-fonts-size);
+  text-decoration: none;
+}
+
+.linktables {
+  color: var(--color-white);
+  font-size: var(--main-fonts-size);
+  text-decoration: none;
+}
+
+.DS {
+  color: white;
+  font-size: 30px;
+}
+
+.twosec {
+  background-color: #F7F8FA;
+  height: auto;
+}
+
+.onebox,
+.twobox,
+.threebox,
+.fourbox {
+  background-color: var(--color-white);
+}
+
+.tiitle {
+  color: var(--color-gray);
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.line {
+  width: 35px;
+  height: 3px;
+  background-color: #83BEDF;
+}
+
+.onenm {
+  color: var(--color-gray);
+  font-size: 60px;
+}
+
+.num {
+  color: var(--color-gray);
+  margin-right: 15px;
+  font-size: 55px;
+}
+
+.a {
+  color: var(--color-gray);
+  font-size: 25px;
+}
+
+.U {
+  color: var(--color-gray);
+  font-size: 25px;
+}
+
+.fa-bell {
+  color: var(--color-gray);
+  font-size: 25px;
+}
+
+.Andrew {
+  color: var(--color-second);
+  font-size: 18px;
+}
+
+.linkhome:hover {
+  color: white;
+}
+
+.linkabout:hover {
+  color: white;
+}
+
+.linktables:hover {
+  color: white;
+}
+
+.onl:hover {
+  background-color: #5C6879;
+  border-radius: 2px;
+}
+
+@media (max-width: 576px) {
+  .all-sec {
+    display: flex;
+  }
+  .x {
+    width: 20%;
+  }
+  .z {
+    width: 80%;
+  }
+  .onesec {
+    height: 300vh;
+    background-color: #525A65;
+  }
+}
+@media (min-width: 576px) {
+  .all-sec {
+    display: flex;
+  }
+  .x {
+    width: 20%;
+  }
+  .z {
+    width: 80%;
+  }
+  .onesec {
+    height: 300vh;
+    background-color: #525A65;
+  }
+}
+@media (min-width: 768px) {
+  .all-sec {
+    display: flex;
+  }
+  .x {
+    width: 20%;
+  }
+  .z {
+    width: 80%;
+  }
+  .onesec {
+    height: 200vh;
+    background-color: #525A65;
+  }
+}
+@media (min-width: 992px) {
+  .onesec {
+    height: 400vh;
+  }
+  .onesec {
+    height: 200vh;
+    background-color: #525A65;
+  }
+}/*# sourceMappingURL=style.css.map */
